@@ -1,5 +1,0 @@
-device_key,device_type,operating_system,screen_size_category,supports_hd,supports_uhd
-1,Mobile,iOS/Android,Small,True,False
-2,Smart TV,Tizen/WebOS,Large,True,True
-3,Tablet,iPadOS/Android,Medium,True,False
-4,Desktop,Windows/macOS,Medium,True,True
