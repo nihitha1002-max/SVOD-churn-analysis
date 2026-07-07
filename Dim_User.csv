@@ -1,0 +1,501 @@
+user_key,user_id,age,gender,country,city,signup_date,acquisition_channel,user_segment,preferred_language,email_opt_in,lifetime_value_usd
+1,USR00001,56,Female,Germany,Berlin,2022-09-25,Referral,New User,English,True,424.27
+2,USR00002,46,Male,USA,Chicago,2021-05-15,Social Media,Casual Viewer,English,True,358.2
+3,USR00003,32,Male,Canada,Vancouver,2022-09-04,Email Campaign,Power User,Hindi,False,326.6
+4,USR00004,60,Female,UK,Birmingham,2022-01-21,Referral,Casual Viewer,English,True,452.12
+5,USR00005,25,Male,Germany,Hamburg,2021-06-07,Organic,At-Risk User,German,False,132.64
+6,USR00006,38,Female,Germany,Munich,2021-06-16,Email Campaign,Casual Viewer,Hindi,False,153.72
+7,USR00007,56,Male,Brazil,São Paulo,2021-07-05,Social Media,Power User,English,True,690.81
+8,USR00008,36,Male,USA,Los Angeles,2022-10-02,Referral,New User,Hindi,True,757.43
+9,USR00009,40,Male,Australia,Melbourne,2021-06-19,Social Media,At-Risk User,English,True,304.91
+10,USR00010,28,Male,USA,New York,2022-03-25,Email Campaign,Power User,English,True,223.89
+11,USR00011,28,Male,UK,London,2021-02-14,Referral,Casual Viewer,French,True,518.76
+12,USR00012,41,Male,India,Delhi,2022-02-25,Organic,At-Risk User,Spanish,True,332.9
+13,USR00013,53,Female,USA,New York,2022-01-09,Paid Ad,New User,English,True,30.06
+14,USR00014,57,Male,UK,Birmingham,2022-11-24,Paid Ad,Casual Viewer,English,True,133.36
+15,USR00015,41,Female,Germany,Berlin,2021-09-01,Organic,Power User,English,False,575.62
+16,USR00016,20,Female,India,Bangalore,2022-03-31,Organic,Casual Viewer,English,True,530.55
+17,USR00017,39,Male,UK,Birmingham,2022-09-18,Social Media,Power User,Spanish,False,31.41
+18,USR00018,19,Male,India,Bangalore,2021-10-19,Paid Ad,At-Risk User,English,True,185.36
+19,USR00019,41,Male,France,Paris,2022-04-05,Paid Ad,Casual Viewer,English,True,192.55
+20,USR00020,61,Female,USA,New York,2021-08-28,Referral,Power User,English,True,540.8
+21,USR00021,47,Non-Binary,France,Lyon,2022-07-01,Paid Ad,New User,Spanish,True,25.57
+22,USR00022,55,Male,Germany,Berlin,2021-09-02,Social Media,Casual Viewer,French,False,92.25
+23,USR00023,19,Female,Canada,Toronto,2021-11-13,Referral,At-Risk User,English,False,641.93
+24,USR00024,38,Female,UK,Birmingham,2022-04-26,Organic,Casual Viewer,Spanish,False,151.05
+25,USR00025,50,Female,Brazil,São Paulo,2021-07-18,Email Campaign,Casual Viewer,English,True,525.67
+26,USR00026,29,Female,Canada,Toronto,2022-01-12,Referral,At-Risk User,German,True,198.16
+27,USR00027,39,Female,USA,Chicago,2022-11-26,Social Media,Casual Viewer,English,False,88.56
+28,USR00028,61,Male,USA,New York,2022-08-08,Social Media,Power User,English,False,202.11
+29,USR00029,42,Male,France,Marseille,2022-03-28,Email Campaign,Power User,English,False,580.59
+30,USR00030,44,Male,India,Mumbai,2022-04-18,Paid Ad,New User,English,True,686.0
+31,USR00031,59,Male,France,Paris,2021-10-16,Referral,Power User,Portuguese,True,665.87
+32,USR00032,45,Female,Germany,Munich,2022-01-27,Social Media,Power User,German,False,323.77
+33,USR00033,33,Female,India,Mumbai,2022-05-30,Email Campaign,Power User,Spanish,True,537.79
+34,USR00034,32,Male,Brazil,Brasília,2022-06-25,Social Media,New User,German,False,171.94
+35,USR00035,64,Female,Australia,Sydney,2022-03-05,Referral,New User,French,False,241.59
+36,USR00036,61,Female,India,Delhi,2021-06-15,Email Campaign,Power User,English,True,718.11
+37,USR00037,20,Male,France,Paris,2021-07-24,Paid Ad,Power User,English,False,20.27
+38,USR00038,54,Female,India,Mumbai,2022-09-12,Referral,Power User,English,False,77.55
+39,USR00039,24,Female,France,Marseille,2021-05-22,Referral,Casual Viewer,French,True,174.23
+40,USR00040,38,Male,India,Delhi,2021-09-14,Referral,New User,English,False,30.96
+41,USR00041,26,Female,Germany,Berlin,2021-02-23,Organic,New User,English,True,153.33
+42,USR00042,56,Non-Binary,USA,New York,2022-10-19,Paid Ad,Casual Viewer,English,False,470.6
+43,USR00043,35,Male,UK,Birmingham,2022-05-08,Email Campaign,Casual Viewer,Spanish,True,342.93
+44,USR00044,21,Male,Canada,Toronto,2022-01-16,Referral,Casual Viewer,German,False,715.21
+45,USR00045,42,Male,USA,New York,2022-07-22,Referral,New User,English,True,655.78
+46,USR00046,31,Female,UK,London,2021-04-16,Paid Ad,New User,Hindi,True,280.04
+47,USR00047,26,Female,USA,Los Angeles,2022-06-13,Referral,Casual Viewer,Portuguese,False,214.94
+48,USR00048,43,Male,Canada,Toronto,2021-05-08,Paid Ad,Casual Viewer,Portuguese,True,309.96
+49,USR00049,19,Female,Germany,Hamburg,2021-10-19,Organic,Casual Viewer,English,True,476.33
+50,USR00050,37,Male,Canada,Vancouver,2021-03-27,Referral,New User,English,False,221.77
+51,USR00051,45,Female,Canada,Toronto,2021-06-14,Referral,Casual Viewer,English,False,503.08
+52,USR00052,64,Female,UK,London,2021-10-07,Email Campaign,New User,Hindi,True,333.44
+53,USR00053,24,Male,Canada,Vancouver,2022-04-06,Organic,Casual Viewer,English,True,446.12
+54,USR00054,61,Female,Brazil,São Paulo,2022-06-10,Referral,Casual Viewer,Spanish,True,354.54
+55,USR00055,25,Female,Germany,Berlin,2021-05-31,Organic,Casual Viewer,English,True,242.63
+56,USR00056,64,Female,India,Bangalore,2022-03-24,Email Campaign,Casual Viewer,English,True,759.28
+57,USR00057,52,Male,UK,Manchester,2021-04-04,Organic,Casual Viewer,Spanish,True,613.25
+58,USR00058,31,Non-Binary,Germany,Hamburg,2021-08-16,Organic,New User,English,False,120.69
+59,USR00059,34,Female,UK,London,2022-04-07,Social Media,At-Risk User,Spanish,False,696.09
+60,USR00060,53,Male,Australia,Brisbane,2021-12-24,Organic,At-Risk User,English,False,395.07
+61,USR00061,57,Male,Brazil,São Paulo,2021-01-28,Referral,At-Risk User,Spanish,True,716.7
+62,USR00062,21,Male,Germany,Munich,2022-03-01,Paid Ad,Casual Viewer,English,True,641.89
+63,USR00063,19,Female,India,Delhi,2021-02-24,Referral,New User,Hindi,True,345.92
+64,USR00064,23,Male,Germany,Munich,2022-02-10,Email Campaign,Casual Viewer,English,True,27.75
+65,USR00065,59,Female,France,Marseille,2022-05-30,Email Campaign,New User,German,True,222.26
+66,USR00066,21,Female,France,Marseille,2022-01-18,Referral,Casual Viewer,Hindi,False,437.89
+67,USR00067,46,Male,UK,London,2021-08-30,Organic,Casual Viewer,English,True,510.45
+68,USR00068,35,Non-Binary,USA,Los Angeles,2022-01-31,Organic,New User,English,True,213.73
+69,USR00069,43,Female,Canada,Montreal,2021-03-25,Social Media,Casual Viewer,English,True,120.09
+70,USR00070,61,Female,Canada,Toronto,2022-01-19,Social Media,Casual Viewer,English,False,669.59
+71,USR00071,51,Female,UK,Birmingham,2021-08-18,Referral,Casual Viewer,English,True,787.68
+72,USR00072,27,Male,Brazil,São Paulo,2021-01-29,Paid Ad,New User,Hindi,True,425.3
+73,USR00073,53,Female,Brazil,Brasília,2021-11-23,Social Media,Casual Viewer,German,True,145.63
+74,USR00074,31,Non-Binary,Canada,Montreal,2021-04-12,Organic,Casual Viewer,Portuguese,True,225.12
+75,USR00075,48,Male,Germany,Hamburg,2022-10-28,Email Campaign,Power User,English,True,24.53
+76,USR00076,32,Female,Australia,Melbourne,2021-12-10,Social Media,Casual Viewer,French,False,732.3
+77,USR00077,25,Female,Brazil,Rio de Janeiro,2021-05-30,Social Media,New User,Hindi,True,103.02
+78,USR00078,31,Female,Australia,Brisbane,2021-05-21,Referral,New User,French,True,465.45
+79,USR00079,40,Male,Canada,Toronto,2021-02-09,Referral,Casual Viewer,English,True,226.5
+80,USR00080,57,Female,UK,London,2021-10-21,Referral,At-Risk User,Spanish,False,447.8
+81,USR00081,38,Male,India,Delhi,2022-04-29,Referral,Casual Viewer,English,True,524.62
+82,USR00082,33,Female,Canada,Vancouver,2021-05-23,Referral,Power User,English,True,665.5
+83,USR00083,62,Female,India,Delhi,2022-04-26,Organic,Power User,English,False,173.07
+84,USR00084,35,Male,Brazil,Brasília,2022-04-05,Social Media,Casual Viewer,Portuguese,False,18.69
+85,USR00085,64,Female,Australia,Sydney,2022-09-23,Paid Ad,Casual Viewer,French,False,118.14
+86,USR00086,41,Male,UK,Manchester,2021-01-06,Social Media,Power User,English,False,721.01
+87,USR00087,43,Male,Brazil,Brasília,2021-03-23,Email Campaign,At-Risk User,German,True,700.37
+88,USR00088,42,Female,India,Delhi,2021-01-20,Social Media,At-Risk User,German,True,481.96
+89,USR00089,62,Male,USA,New York,2021-09-20,Social Media,New User,Spanish,False,484.41
+90,USR00090,58,Male,USA,New York,2021-08-09,Social Media,Casual Viewer,French,True,535.38
+91,USR00091,46,Female,USA,Los Angeles,2021-06-03,Referral,At-Risk User,English,True,148.54
+92,USR00092,32,Male,Germany,Hamburg,2022-07-16,Social Media,Casual Viewer,Portuguese,False,732.39
+93,USR00093,62,Male,France,Paris,2022-09-16,Social Media,Casual Viewer,English,True,340.83
+94,USR00094,18,Female,Australia,Sydney,2022-06-25,Email Campaign,At-Risk User,English,True,312.68
+95,USR00095,42,Male,USA,New York,2022-03-10,Referral,At-Risk User,English,True,419.94
+96,USR00096,24,Female,Australia,Melbourne,2021-04-24,Social Media,Casual Viewer,Hindi,True,47.1
+97,USR00097,26,Female,Brazil,Brasília,2021-10-23,Organic,Power User,English,True,141.36
+98,USR00098,41,Male,India,Bangalore,2021-09-01,Referral,Casual Viewer,Spanish,True,593.05
+99,USR00099,18,Male,Brazil,Brasília,2021-11-05,Social Media,Casual Viewer,English,True,75.41
+100,USR00100,61,Female,France,Marseille,2021-05-05,Email Campaign,Casual Viewer,Portuguese,True,486.49
+101,USR00101,25,Male,USA,Chicago,2021-02-18,Email Campaign,Casual Viewer,English,False,203.83
+102,USR00102,41,Female,Germany,Munich,2021-09-02,Email Campaign,Power User,English,True,317.54
+103,USR00103,28,Female,Germany,Munich,2022-03-06,Email Campaign,Casual Viewer,English,False,238.07
+104,USR00104,34,Female,India,Bangalore,2022-10-17,Social Media,New User,Hindi,True,290.98
+105,USR00105,25,Female,Canada,Montreal,2022-09-30,Social Media,Casual Viewer,French,True,578.05
+106,USR00106,52,Female,Germany,Munich,2022-04-14,Referral,Casual Viewer,French,False,244.73
+107,USR00107,52,Female,USA,Los Angeles,2021-03-06,Social Media,Casual Viewer,English,True,457.46
+108,USR00108,50,Female,Australia,Brisbane,2021-04-24,Paid Ad,Power User,English,False,386.08
+109,USR00109,22,Male,Australia,Brisbane,2022-05-27,Social Media,Casual Viewer,English,True,534.3
+110,USR00110,59,Male,Brazil,Rio de Janeiro,2022-09-04,Paid Ad,At-Risk User,English,False,750.1
+111,USR00111,56,Female,Brazil,São Paulo,2022-07-03,Social Media,Casual Viewer,Hindi,True,588.73
+112,USR00112,58,Male,Canada,Montreal,2021-01-17,Paid Ad,Power User,Spanish,False,179.8
+113,USR00113,45,Female,India,Mumbai,2022-10-10,Email Campaign,Casual Viewer,English,True,34.63
+114,USR00114,24,Male,UK,Birmingham,2022-06-12,Referral,Casual Viewer,English,False,217.19
+115,USR00115,26,Female,Brazil,Brasília,2022-08-12,Organic,Power User,English,True,480.11
+116,USR00116,25,Male,France,Marseille,2021-09-05,Referral,Power User,English,True,50.63
+117,USR00117,29,Female,Canada,Montreal,2021-05-28,Paid Ad,Power User,Spanish,False,402.13
+118,USR00118,51,Male,Germany,Berlin,2021-10-26,Social Media,Casual Viewer,Portuguese,True,481.51
+119,USR00119,50,Female,India,Delhi,2022-03-16,Referral,Casual Viewer,English,True,274.05
+120,USR00120,40,Male,UK,Manchester,2021-01-02,Paid Ad,Power User,English,True,619.02
+121,USR00121,41,Male,France,Paris,2022-09-22,Referral,Casual Viewer,English,True,94.21
+122,USR00122,54,Male,India,Delhi,2021-12-28,Organic,Power User,English,True,69.36
+123,USR00123,52,Male,France,Lyon,2021-09-04,Paid Ad,Power User,English,True,585.27
+124,USR00124,61,Male,India,Delhi,2022-08-08,Referral,Power User,French,False,401.44
+125,USR00125,57,Female,USA,Los Angeles,2022-03-03,Organic,New User,Hindi,True,553.84
+126,USR00126,39,Female,Canada,Vancouver,2021-07-11,Referral,At-Risk User,French,True,353.51
+127,USR00127,44,Male,USA,Chicago,2022-11-12,Organic,Casual Viewer,English,False,204.66
+128,USR00128,52,Male,Brazil,São Paulo,2022-11-16,Paid Ad,Casual Viewer,Hindi,False,657.09
+129,USR00129,18,Female,Brazil,Rio de Janeiro,2021-03-29,Email Campaign,Casual Viewer,English,True,641.54
+130,USR00130,52,Female,France,Lyon,2022-06-21,Paid Ad,At-Risk User,English,True,558.81
+131,USR00131,54,Non-Binary,Canada,Vancouver,2022-01-05,Email Campaign,Power User,English,True,224.99
+132,USR00132,64,Female,USA,Chicago,2021-03-11,Email Campaign,Casual Viewer,English,True,476.28
+133,USR00133,31,Male,Brazil,Rio de Janeiro,2022-06-23,Paid Ad,Power User,Spanish,True,295.17
+134,USR00134,20,Male,Brazil,Rio de Janeiro,2022-07-12,Organic,Casual Viewer,French,True,82.35
+135,USR00135,18,Male,USA,New York,2022-06-04,Email Campaign,At-Risk User,English,True,734.68
+136,USR00136,22,Male,Australia,Brisbane,2022-06-04,Social Media,Casual Viewer,Portuguese,True,118.09
+137,USR00137,43,Male,USA,Los Angeles,2022-07-22,Referral,Power User,English,False,760.69
+138,USR00138,31,Male,France,Paris,2021-01-21,Email Campaign,New User,English,False,362.34
+139,USR00139,56,Female,France,Paris,2022-02-04,Organic,Power User,English,True,156.26
+140,USR00140,44,Male,UK,London,2022-04-27,Paid Ad,Power User,French,True,438.1
+141,USR00141,26,Non-Binary,Australia,Sydney,2021-02-14,Paid Ad,Casual Viewer,English,True,699.63
+142,USR00142,32,Female,India,Delhi,2022-10-13,Referral,Power User,English,False,588.46
+143,USR00143,32,Female,Canada,Toronto,2022-02-01,Email Campaign,New User,Hindi,True,647.18
+144,USR00144,43,Male,France,Marseille,2022-01-18,Email Campaign,At-Risk User,English,True,530.44
+145,USR00145,59,Female,Australia,Brisbane,2021-09-17,Organic,Power User,English,False,556.9
+146,USR00146,30,Female,UK,Manchester,2021-01-17,Email Campaign,Casual Viewer,Hindi,False,680.86
+147,USR00147,49,Female,India,Mumbai,2022-01-01,Organic,Power User,Portuguese,False,207.24
+148,USR00148,56,Female,Germany,Hamburg,2021-03-11,Email Campaign,At-Risk User,English,False,396.65
+149,USR00149,49,Male,UK,London,2021-12-20,Email Campaign,Casual Viewer,Hindi,True,184.76
+150,USR00150,21,Male,Canada,Montreal,2021-09-04,Social Media,New User,English,True,790.26
+151,USR00151,47,Male,Brazil,Brasília,2022-11-04,Paid Ad,Casual Viewer,Spanish,False,755.81
+152,USR00152,54,Male,Germany,Hamburg,2022-10-06,Email Campaign,Casual Viewer,Spanish,False,41.15
+153,USR00153,40,Female,Australia,Melbourne,2021-04-17,Email Campaign,Casual Viewer,Spanish,True,567.4
+154,USR00154,56,Male,India,Bangalore,2022-08-19,Email Campaign,Casual Viewer,English,True,740.95
+155,USR00155,62,Female,USA,New York,2021-12-07,Email Campaign,Casual Viewer,Hindi,True,152.65
+156,USR00156,32,Male,UK,Manchester,2021-05-17,Organic,Casual Viewer,English,False,458.68
+157,USR00157,60,Male,Canada,Vancouver,2021-02-15,Paid Ad,Casual Viewer,English,False,733.24
+158,USR00158,46,Female,India,Bangalore,2021-12-27,Organic,Power User,German,True,36.82
+159,USR00159,53,Male,UK,Manchester,2022-07-14,Email Campaign,Casual Viewer,English,True,560.96
+160,USR00160,30,Male,UK,Birmingham,2021-12-13,Social Media,Casual Viewer,English,True,244.91
+161,USR00161,49,Female,USA,New York,2022-10-21,Email Campaign,Casual Viewer,German,False,740.27
+162,USR00162,24,Male,Germany,Munich,2021-06-29,Paid Ad,New User,Hindi,False,777.14
+163,USR00163,39,Non-Binary,UK,Birmingham,2022-04-21,Paid Ad,New User,English,False,755.97
+164,USR00164,45,Male,Brazil,Rio de Janeiro,2022-05-06,Email Campaign,Casual Viewer,English,True,384.63
+165,USR00165,19,Female,France,Lyon,2022-10-09,Email Campaign,At-Risk User,English,True,691.01
+166,USR00166,59,Female,USA,New York,2021-07-06,Paid Ad,New User,English,True,677.19
+167,USR00167,62,Female,UK,Birmingham,2021-05-19,Organic,At-Risk User,Spanish,True,262.09
+168,USR00168,23,Male,Germany,Hamburg,2021-03-06,Organic,New User,Hindi,False,664.84
+169,USR00169,45,Female,UK,London,2022-04-14,Organic,Casual Viewer,English,False,39.24
+170,USR00170,45,Male,UK,London,2021-02-07,Paid Ad,Casual Viewer,English,False,481.05
+171,USR00171,61,Male,Brazil,Brasília,2021-10-28,Social Media,Casual Viewer,French,False,191.71
+172,USR00172,61,Female,India,Delhi,2021-07-26,Organic,Casual Viewer,English,True,105.25
+173,USR00173,37,Non-Binary,Australia,Sydney,2021-02-14,Referral,Casual Viewer,English,False,70.79
+174,USR00174,47,Male,France,Paris,2021-07-24,Referral,Casual Viewer,English,False,560.07
+175,USR00175,28,Female,France,Lyon,2021-02-12,Paid Ad,Power User,English,False,278.5
+176,USR00176,45,Female,UK,Birmingham,2021-11-20,Referral,Casual Viewer,German,True,582.57
+177,USR00177,42,Female,USA,Los Angeles,2021-11-14,Organic,Casual Viewer,English,True,61.63
+178,USR00178,56,Female,Australia,Sydney,2022-06-12,Email Campaign,Power User,Spanish,True,259.08
+179,USR00179,50,Male,Australia,Melbourne,2022-02-12,Email Campaign,New User,English,False,436.2
+180,USR00180,18,Male,Australia,Brisbane,2022-07-11,Email Campaign,Power User,English,True,634.67
+181,USR00181,44,Female,Germany,Berlin,2022-04-30,Paid Ad,Power User,English,True,261.81
+182,USR00182,30,Male,Germany,Munich,2021-09-17,Organic,Power User,Spanish,True,504.45
+183,USR00183,58,Male,Brazil,Brasília,2021-02-07,Referral,New User,English,True,709.92
+184,USR00184,20,Male,USA,Chicago,2022-10-25,Organic,At-Risk User,English,True,496.53
+185,USR00185,56,Male,Australia,Brisbane,2021-07-15,Organic,Casual Viewer,English,True,194.04
+186,USR00186,23,Male,Canada,Montreal,2021-10-20,Social Media,New User,English,True,29.28
+187,USR00187,25,Female,France,Marseille,2022-01-01,Social Media,New User,German,True,697.38
+188,USR00188,44,Male,UK,Birmingham,2021-02-18,Social Media,Casual Viewer,Spanish,False,26.8
+189,USR00189,26,Male,UK,London,2022-11-03,Social Media,At-Risk User,Spanish,True,701.01
+190,USR00190,54,Female,Australia,Brisbane,2021-12-06,Referral,Casual Viewer,Hindi,False,427.86
+191,USR00191,50,Female,Australia,Brisbane,2021-10-07,Email Campaign,Casual Viewer,Hindi,True,751.86
+192,USR00192,59,Male,Canada,Montreal,2021-05-08,Social Media,New User,Portuguese,True,641.04
+193,USR00193,61,Female,UK,Manchester,2022-01-12,Referral,Power User,Hindi,False,798.37
+194,USR00194,41,Female,Brazil,São Paulo,2022-03-24,Organic,Casual Viewer,English,True,287.06
+195,USR00195,32,Female,Australia,Sydney,2022-02-14,Referral,New User,Spanish,True,616.08
+196,USR00196,49,Female,France,Lyon,2022-03-27,Referral,Power User,English,True,327.53
+197,USR00197,49,Female,India,Bangalore,2022-01-31,Organic,New User,German,False,389.1
+198,USR00198,41,Female,USA,Los Angeles,2021-12-14,Organic,Casual Viewer,Spanish,True,505.73
+199,USR00199,58,Male,Brazil,Rio de Janeiro,2021-07-11,Social Media,Casual Viewer,English,True,700.2
+200,USR00200,29,Female,France,Lyon,2022-05-24,Paid Ad,Power User,English,True,787.43
+201,USR00201,56,Female,Brazil,São Paulo,2022-05-25,Paid Ad,Casual Viewer,English,True,616.94
+202,USR00202,19,Female,Brazil,São Paulo,2022-01-12,Email Campaign,Power User,English,True,340.04
+203,USR00203,20,Female,France,Paris,2022-06-16,Referral,Power User,German,True,342.87
+204,USR00204,54,Male,UK,Birmingham,2021-10-01,Social Media,New User,Hindi,True,592.69
+205,USR00205,34,Male,Australia,Brisbane,2021-03-26,Organic,New User,English,True,198.63
+206,USR00206,19,Male,UK,Manchester,2022-03-11,Email Campaign,At-Risk User,Portuguese,True,97.27
+207,USR00207,19,Female,Australia,Sydney,2021-03-22,Social Media,New User,Spanish,False,290.15
+208,USR00208,45,Female,USA,New York,2022-03-17,Referral,Casual Viewer,Hindi,True,236.92
+209,USR00209,40,Male,Australia,Brisbane,2022-09-09,Social Media,Casual Viewer,Portuguese,True,244.08
+210,USR00210,54,Male,Brazil,Brasília,2021-07-04,Organic,Casual Viewer,Portuguese,False,194.55
+211,USR00211,49,Female,Canada,Toronto,2022-07-13,Organic,At-Risk User,English,True,43.25
+212,USR00212,50,Female,France,Paris,2021-10-28,Referral,Casual Viewer,French,True,24.12
+213,USR00213,18,Female,Australia,Brisbane,2021-11-25,Referral,Power User,English,False,790.3
+214,USR00214,36,Female,Australia,Brisbane,2021-04-16,Paid Ad,Casual Viewer,Hindi,False,347.94
+215,USR00215,19,Female,Brazil,São Paulo,2021-03-23,Paid Ad,Power User,German,True,313.62
+216,USR00216,61,Male,Brazil,Rio de Janeiro,2021-12-02,Paid Ad,Casual Viewer,English,False,546.92
+217,USR00217,43,Male,India,Delhi,2022-11-08,Paid Ad,Casual Viewer,Portuguese,True,182.42
+218,USR00218,49,Male,Germany,Munich,2021-10-30,Referral,Power User,English,True,760.47
+219,USR00219,23,Male,UK,Manchester,2021-11-10,Social Media,Power User,Hindi,True,631.21
+220,USR00220,49,Male,Canada,Toronto,2022-04-02,Social Media,Power User,Hindi,False,80.63
+221,USR00221,21,Male,Brazil,Rio de Janeiro,2022-09-10,Referral,Power User,English,True,339.89
+222,USR00222,28,Non-Binary,India,Delhi,2022-03-13,Email Campaign,Casual Viewer,Hindi,True,704.5
+223,USR00223,34,Female,India,Bangalore,2021-06-20,Organic,Power User,Hindi,True,756.34
+224,USR00224,55,Female,Germany,Munich,2022-03-31,Paid Ad,New User,English,True,379.25
+225,USR00225,41,Female,USA,Chicago,2021-12-26,Referral,New User,Spanish,True,494.59
+226,USR00226,22,Non-Binary,India,Bangalore,2022-04-03,Organic,New User,Hindi,True,141.96
+227,USR00227,51,Female,India,Mumbai,2021-02-13,Paid Ad,Casual Viewer,French,True,793.02
+228,USR00228,23,Male,France,Paris,2021-12-28,Organic,New User,German,True,193.02
+229,USR00229,39,Male,UK,London,2022-09-22,Paid Ad,Power User,English,True,754.76
+230,USR00230,28,Female,Brazil,São Paulo,2022-03-22,Paid Ad,Casual Viewer,French,True,523.22
+231,USR00231,33,Male,USA,Chicago,2021-10-09,Paid Ad,Casual Viewer,Portuguese,True,490.11
+232,USR00232,50,Female,UK,London,2022-10-17,Organic,New User,Spanish,True,415.02
+233,USR00233,26,Female,India,Bangalore,2021-02-28,Social Media,Casual Viewer,Spanish,False,192.23
+234,USR00234,23,Male,Germany,Berlin,2021-03-18,Paid Ad,New User,English,True,149.46
+235,USR00235,33,Female,UK,Manchester,2022-11-19,Organic,Power User,Portuguese,True,184.18
+236,USR00236,46,Female,USA,Los Angeles,2022-10-15,Social Media,Power User,German,True,157.29
+237,USR00237,20,Female,Brazil,Brasília,2022-02-20,Paid Ad,Power User,English,True,625.87
+238,USR00238,37,Male,UK,Manchester,2022-01-08,Organic,At-Risk User,English,True,286.6
+239,USR00239,53,Male,India,Delhi,2022-06-10,Paid Ad,Casual Viewer,English,True,55.7
+240,USR00240,36,Male,India,Bangalore,2022-11-27,Email Campaign,Casual Viewer,English,True,775.59
+241,USR00241,43,Female,Australia,Melbourne,2021-06-13,Paid Ad,New User,English,True,708.19
+242,USR00242,20,Female,India,Delhi,2021-02-01,Paid Ad,Casual Viewer,English,True,742.92
+243,USR00243,36,Male,India,Delhi,2021-05-27,Paid Ad,Casual Viewer,Spanish,True,795.98
+244,USR00244,37,Female,Brazil,São Paulo,2022-09-15,Organic,New User,English,True,147.38
+245,USR00245,49,Male,UK,Birmingham,2022-11-26,Paid Ad,Casual Viewer,German,True,323.03
+246,USR00246,24,Female,Germany,Berlin,2022-03-25,Email Campaign,New User,English,True,609.01
+247,USR00247,58,Female,UK,Manchester,2021-02-05,Referral,New User,English,True,559.86
+248,USR00248,50,Female,Australia,Melbourne,2021-05-10,Social Media,Power User,French,True,131.58
+249,USR00249,57,Male,Germany,Berlin,2021-03-10,Email Campaign,At-Risk User,German,True,654.51
+250,USR00250,56,Male,Canada,Vancouver,2021-08-30,Referral,Casual Viewer,Hindi,False,187.31
+251,USR00251,35,Male,Canada,Montreal,2022-10-23,Paid Ad,Casual Viewer,English,True,186.82
+252,USR00252,57,Non-Binary,France,Marseille,2022-01-11,Organic,Power User,English,True,434.21
+253,USR00253,18,Male,USA,Chicago,2022-01-06,Social Media,Casual Viewer,Spanish,False,478.42
+254,USR00254,28,Female,Australia,Melbourne,2022-01-28,Organic,Power User,German,False,468.27
+255,USR00255,45,Non-Binary,Brazil,Brasília,2022-08-04,Email Campaign,Casual Viewer,Hindi,True,82.27
+256,USR00256,42,Female,Brazil,Brasília,2021-02-03,Email Campaign,New User,Hindi,True,703.19
+257,USR00257,40,Female,USA,Los Angeles,2022-09-12,Organic,New User,German,False,219.82
+258,USR00258,48,Male,UK,London,2021-06-07,Email Campaign,Power User,Portuguese,False,112.32
+259,USR00259,47,Male,Canada,Toronto,2022-11-27,Organic,Casual Viewer,English,True,712.11
+260,USR00260,59,Male,Brazil,Rio de Janeiro,2022-04-06,Paid Ad,Casual Viewer,Portuguese,True,764.96
+261,USR00261,52,Female,Brazil,Brasília,2022-01-15,Referral,Casual Viewer,English,True,691.08
+262,USR00262,24,Female,Brazil,São Paulo,2022-01-16,Referral,New User,English,True,649.52
+263,USR00263,33,Female,Canada,Toronto,2022-03-31,Email Campaign,Casual Viewer,English,True,527.64
+264,USR00264,43,Male,UK,London,2021-03-20,Referral,Power User,English,True,445.18
+265,USR00265,19,Female,France,Lyon,2022-08-11,Paid Ad,Power User,English,True,78.72
+266,USR00266,18,Female,Germany,Berlin,2021-05-21,Email Campaign,Casual Viewer,Portuguese,False,332.68
+267,USR00267,29,Male,India,Mumbai,2022-06-27,Social Media,New User,Hindi,True,304.42
+268,USR00268,22,Female,Brazil,Rio de Janeiro,2022-01-11,Email Campaign,New User,Portuguese,True,215.21
+269,USR00269,54,Male,Germany,Munich,2022-02-12,Email Campaign,Power User,Spanish,True,581.5
+270,USR00270,49,Non-Binary,USA,Los Angeles,2021-11-18,Social Media,Power User,English,False,401.74
+271,USR00271,26,Female,France,Paris,2022-10-28,Referral,Casual Viewer,Portuguese,True,74.03
+272,USR00272,58,Male,Canada,Toronto,2021-10-13,Referral,Power User,French,True,183.94
+273,USR00273,52,Male,Germany,Munich,2021-09-13,Paid Ad,New User,German,True,549.77
+274,USR00274,36,Female,Brazil,Brasília,2021-04-27,Referral,Power User,Hindi,True,70.14
+275,USR00275,33,Female,UK,Manchester,2021-01-27,Social Media,Casual Viewer,English,True,682.45
+276,USR00276,20,Male,USA,New York,2021-07-10,Organic,At-Risk User,Spanish,True,401.17
+277,USR00277,37,Non-Binary,USA,New York,2022-05-27,Paid Ad,New User,English,True,389.66
+278,USR00278,41,Female,India,Delhi,2022-06-15,Paid Ad,Power User,English,True,478.0
+279,USR00279,50,Male,Canada,Montreal,2022-02-01,Referral,Power User,French,True,661.5
+280,USR00280,41,Male,India,Bangalore,2022-07-30,Social Media,Casual Viewer,English,True,284.77
+281,USR00281,28,Female,Germany,Berlin,2021-05-01,Organic,At-Risk User,French,True,545.63
+282,USR00282,25,Female,UK,Birmingham,2021-09-26,Organic,Casual Viewer,Portuguese,True,456.93
+283,USR00283,53,Female,Germany,Hamburg,2021-09-24,Social Media,Casual Viewer,Portuguese,True,220.95
+284,USR00284,55,Female,Canada,Montreal,2022-04-02,Referral,Power User,English,False,704.12
+285,USR00285,57,Male,Australia,Melbourne,2021-08-08,Paid Ad,Casual Viewer,Portuguese,True,639.97
+286,USR00286,37,Female,Brazil,São Paulo,2022-09-19,Paid Ad,At-Risk User,Portuguese,True,530.18
+287,USR00287,52,Non-Binary,France,Lyon,2021-10-20,Email Campaign,Power User,English,False,681.96
+288,USR00288,42,Male,USA,Chicago,2022-05-18,Social Media,Casual Viewer,Spanish,True,695.16
+289,USR00289,52,Female,Australia,Sydney,2021-07-24,Social Media,Power User,German,True,569.61
+290,USR00290,42,Male,Canada,Vancouver,2021-05-06,Social Media,Casual Viewer,Portuguese,True,671.24
+291,USR00291,46,Female,USA,New York,2021-05-19,Email Campaign,Casual Viewer,English,True,561.0
+292,USR00292,35,Female,France,Lyon,2021-03-17,Referral,Power User,Spanish,False,547.31
+293,USR00293,63,Female,Germany,Berlin,2022-04-08,Organic,Power User,Portuguese,True,498.7
+294,USR00294,35,Female,Canada,Vancouver,2021-06-26,Email Campaign,New User,English,True,604.65
+295,USR00295,19,Male,Germany,Hamburg,2022-04-01,Paid Ad,New User,French,True,135.3
+296,USR00296,52,Female,India,Delhi,2021-03-31,Referral,Casual Viewer,English,True,705.89
+297,USR00297,33,Male,Australia,Brisbane,2022-11-30,Email Campaign,Casual Viewer,Portuguese,True,698.76
+298,USR00298,58,Female,USA,Los Angeles,2021-11-24,Organic,New User,English,True,33.11
+299,USR00299,53,Female,USA,Chicago,2022-11-15,Social Media,Casual Viewer,German,True,662.4
+300,USR00300,50,Female,Brazil,Brasília,2021-12-22,Organic,Casual Viewer,English,False,111.81
+301,USR00301,21,Male,Brazil,Rio de Janeiro,2021-03-08,Organic,Casual Viewer,French,True,274.74
+302,USR00302,50,Male,India,Delhi,2022-07-18,Paid Ad,Casual Viewer,Spanish,True,597.37
+303,USR00303,31,Female,France,Paris,2022-07-10,Referral,Power User,German,True,137.0
+304,USR00304,38,Non-Binary,India,Delhi,2021-10-25,Organic,Casual Viewer,English,True,656.19
+305,USR00305,37,Female,UK,London,2021-11-04,Referral,Casual Viewer,English,True,667.39
+306,USR00306,25,Male,UK,Manchester,2021-06-11,Paid Ad,At-Risk User,English,True,410.9
+307,USR00307,24,Female,Canada,Toronto,2022-10-16,Social Media,At-Risk User,English,True,15.04
+308,USR00308,20,Male,Brazil,Brasília,2021-06-28,Social Media,Power User,English,True,236.76
+309,USR00309,34,Female,France,Lyon,2022-01-06,Email Campaign,New User,English,True,497.37
+310,USR00310,50,Female,France,Marseille,2022-06-05,Organic,At-Risk User,English,False,785.14
+311,USR00311,29,Male,Brazil,Rio de Janeiro,2021-08-18,Paid Ad,Power User,English,True,509.13
+312,USR00312,39,Male,UK,London,2021-05-05,Social Media,At-Risk User,French,True,215.24
+313,USR00313,39,Male,UK,Manchester,2021-07-25,Email Campaign,At-Risk User,Portuguese,True,510.86
+314,USR00314,63,Female,USA,New York,2021-05-23,Referral,At-Risk User,German,False,436.59
+315,USR00315,47,Female,France,Paris,2021-08-31,Social Media,New User,English,True,626.08
+316,USR00316,55,Male,Brazil,Rio de Janeiro,2022-05-21,Paid Ad,At-Risk User,English,True,94.51
+317,USR00317,55,Female,Australia,Brisbane,2021-01-27,Referral,Casual Viewer,Spanish,False,611.21
+318,USR00318,62,Male,India,Delhi,2022-01-05,Social Media,Power User,English,False,437.6
+319,USR00319,25,Female,UK,Birmingham,2022-07-22,Social Media,Power User,English,False,770.76
+320,USR00320,44,Female,Brazil,São Paulo,2022-08-10,Organic,Power User,German,True,280.08
+321,USR00321,44,Female,France,Lyon,2022-01-13,Referral,Power User,French,True,509.77
+322,USR00322,51,Male,Brazil,Rio de Janeiro,2022-04-24,Social Media,Casual Viewer,French,True,746.3
+323,USR00323,38,Female,France,Marseille,2022-07-19,Social Media,Casual Viewer,English,False,90.98
+324,USR00324,47,Female,Brazil,Rio de Janeiro,2021-05-13,Organic,Casual Viewer,English,True,750.41
+325,USR00325,50,Non-Binary,USA,New York,2022-09-19,Email Campaign,Casual Viewer,Hindi,True,553.43
+326,USR00326,45,Female,Germany,Munich,2021-03-30,Email Campaign,Casual Viewer,English,True,63.59
+327,USR00327,64,Male,Canada,Toronto,2021-03-09,Email Campaign,Power User,English,False,247.76
+328,USR00328,50,Female,Brazil,São Paulo,2021-11-13,Referral,At-Risk User,Portuguese,True,569.46
+329,USR00329,22,Female,France,Marseille,2022-02-12,Paid Ad,New User,English,True,63.21
+330,USR00330,36,Female,France,Marseille,2022-05-06,Paid Ad,Casual Viewer,English,True,469.91
+331,USR00331,21,Female,France,Paris,2022-06-23,Email Campaign,Casual Viewer,English,True,283.25
+332,USR00332,52,Male,Canada,Montreal,2022-02-25,Email Campaign,At-Risk User,French,True,500.52
+333,USR00333,34,Female,France,Marseille,2022-02-24,Referral,Casual Viewer,Spanish,True,46.14
+334,USR00334,61,Male,USA,New York,2022-08-12,Referral,At-Risk User,German,True,698.51
+335,USR00335,45,Female,France,Lyon,2021-03-17,Social Media,Casual Viewer,English,True,779.06
+336,USR00336,47,Male,France,Lyon,2021-05-09,Paid Ad,New User,Spanish,True,775.41
+337,USR00337,46,Female,UK,Birmingham,2021-11-21,Organic,Power User,Spanish,True,602.22
+338,USR00338,63,Male,France,Marseille,2022-10-20,Social Media,Power User,English,True,112.77
+339,USR00339,23,Male,Australia,Sydney,2021-03-17,Referral,Power User,English,True,609.03
+340,USR00340,52,Non-Binary,Canada,Toronto,2022-04-06,Paid Ad,Casual Viewer,Portuguese,True,29.42
+341,USR00341,58,Male,France,Paris,2022-04-23,Email Campaign,Power User,English,True,27.48
+342,USR00342,54,Female,UK,London,2022-11-28,Social Media,Casual Viewer,German,True,265.65
+343,USR00343,41,Female,USA,Los Angeles,2022-06-14,Referral,New User,English,True,396.03
+344,USR00344,46,Female,UK,London,2021-12-19,Email Campaign,Casual Viewer,English,False,618.62
+345,USR00345,63,Female,Canada,Toronto,2021-05-12,Email Campaign,Casual Viewer,English,True,549.8
+346,USR00346,48,Female,France,Marseille,2022-07-19,Paid Ad,Casual Viewer,English,False,362.26
+347,USR00347,52,Male,Brazil,São Paulo,2022-10-18,Email Campaign,Casual Viewer,French,True,226.17
+348,USR00348,50,Male,Canada,Montreal,2022-08-25,Paid Ad,Casual Viewer,French,True,797.73
+349,USR00349,38,Female,Germany,Berlin,2021-07-06,Organic,Power User,French,False,346.68
+350,USR00350,49,Female,Australia,Sydney,2021-05-13,Social Media,Casual Viewer,English,True,366.6
+351,USR00351,40,Female,Brazil,Brasília,2022-03-20,Social Media,Casual Viewer,English,True,139.26
+352,USR00352,50,Male,India,Delhi,2022-05-30,Referral,Casual Viewer,English,True,637.9
+353,USR00353,20,Male,Brazil,Rio de Janeiro,2021-02-26,Email Campaign,Casual Viewer,English,True,558.01
+354,USR00354,35,Female,USA,Chicago,2021-05-08,Email Campaign,Casual Viewer,Spanish,False,184.41
+355,USR00355,42,Female,Brazil,Brasília,2022-06-15,Organic,Power User,Hindi,False,75.08
+356,USR00356,59,Non-Binary,UK,Manchester,2021-06-06,Referral,New User,English,False,547.59
+357,USR00357,48,Female,Brazil,Brasília,2021-11-08,Organic,New User,English,True,527.06
+358,USR00358,20,Male,Canada,Montreal,2021-06-18,Social Media,Power User,English,False,225.88
+359,USR00359,57,Male,USA,Chicago,2021-06-15,Referral,Casual Viewer,English,False,761.18
+360,USR00360,63,Female,Australia,Brisbane,2021-11-27,Referral,New User,French,True,129.34
+361,USR00361,41,Female,Germany,Hamburg,2021-08-19,Email Campaign,At-Risk User,Spanish,True,351.54
+362,USR00362,49,Male,Canada,Vancouver,2021-12-21,Organic,Casual Viewer,English,False,755.46
+363,USR00363,64,Female,India,Bangalore,2022-06-16,Referral,New User,English,True,341.58
+364,USR00364,39,Female,India,Delhi,2021-10-18,Referral,At-Risk User,English,False,514.44
+365,USR00365,40,Male,Australia,Sydney,2021-03-22,Paid Ad,Casual Viewer,English,True,324.1
+366,USR00366,19,Female,India,Delhi,2021-09-14,Paid Ad,Power User,English,False,226.63
+367,USR00367,44,Male,Canada,Toronto,2021-07-21,Email Campaign,New User,Hindi,True,787.34
+368,USR00368,59,Male,Germany,Munich,2022-10-13,Social Media,Power User,English,True,333.37
+369,USR00369,19,Male,USA,Los Angeles,2022-07-19,Email Campaign,New User,English,True,716.34
+370,USR00370,43,Female,Brazil,Brasília,2021-10-09,Organic,At-Risk User,English,False,191.66
+371,USR00371,34,Female,India,Delhi,2021-05-09,Email Campaign,Casual Viewer,French,True,178.35
+372,USR00372,57,Female,Germany,Munich,2022-10-03,Email Campaign,Power User,English,True,34.6
+373,USR00373,50,Male,Germany,Hamburg,2021-11-07,Organic,Casual Viewer,Spanish,True,524.82
+374,USR00374,26,Male,Germany,Berlin,2022-09-22,Email Campaign,Casual Viewer,English,False,301.14
+375,USR00375,60,Female,Canada,Vancouver,2022-07-01,Paid Ad,At-Risk User,German,True,692.84
+376,USR00376,56,Female,USA,Chicago,2021-04-06,Social Media,New User,English,False,383.84
+377,USR00377,46,Male,Germany,Berlin,2022-05-30,Referral,Casual Viewer,English,True,774.87
+378,USR00378,59,Female,Canada,Vancouver,2022-10-19,Social Media,Casual Viewer,English,True,156.57
+379,USR00379,43,Male,Canada,Vancouver,2021-06-22,Email Campaign,Power User,English,True,696.21
+380,USR00380,52,Male,France,Lyon,2022-08-30,Paid Ad,Casual Viewer,English,True,623.51
+381,USR00381,42,Male,Germany,Berlin,2022-08-18,Referral,Power User,English,False,619.03
+382,USR00382,41,Male,Canada,Toronto,2021-06-07,Social Media,Power User,English,True,677.38
+383,USR00383,30,Male,Canada,Vancouver,2021-06-25,Paid Ad,New User,Hindi,True,611.21
+384,USR00384,24,Female,Australia,Melbourne,2022-11-06,Social Media,Casual Viewer,French,False,504.71
+385,USR00385,53,Female,Australia,Sydney,2022-10-02,Social Media,New User,English,True,113.68
+386,USR00386,62,Female,Canada,Montreal,2022-09-12,Paid Ad,Casual Viewer,English,True,35.7
+387,USR00387,37,Male,UK,London,2021-12-12,Paid Ad,Power User,Spanish,False,737.47
+388,USR00388,18,Male,Australia,Brisbane,2022-08-01,Organic,New User,Portuguese,True,497.15
+389,USR00389,25,Male,Brazil,Brasília,2021-02-12,Email Campaign,Power User,Spanish,True,639.26
+390,USR00390,63,Female,Germany,Hamburg,2021-01-30,Paid Ad,Power User,Spanish,False,390.4
+391,USR00391,33,Female,Brazil,Rio de Janeiro,2021-03-25,Email Campaign,At-Risk User,Hindi,True,102.67
+392,USR00392,31,Male,India,Delhi,2021-02-16,Email Campaign,Casual Viewer,Hindi,True,108.9
+393,USR00393,29,Male,Canada,Montreal,2022-10-19,Social Media,New User,English,True,551.6
+394,USR00394,40,Female,India,Bangalore,2022-08-14,Paid Ad,New User,Spanish,False,349.94
+395,USR00395,32,Male,USA,Chicago,2021-09-29,Paid Ad,Casual Viewer,German,True,168.41
+396,USR00396,45,Male,Canada,Toronto,2022-10-29,Social Media,Power User,English,True,398.36
+397,USR00397,51,Female,Australia,Melbourne,2021-08-04,Organic,New User,German,False,60.73
+398,USR00398,19,Male,India,Bangalore,2022-08-09,Social Media,Casual Viewer,English,False,469.76
+399,USR00399,49,Female,Germany,Hamburg,2022-03-03,Email Campaign,At-Risk User,English,True,222.5
+400,USR00400,40,Female,Australia,Sydney,2022-09-25,Paid Ad,New User,German,True,640.07
+401,USR00401,39,Non-Binary,Australia,Melbourne,2022-10-17,Paid Ad,Power User,French,True,255.19
+402,USR00402,42,Male,UK,Birmingham,2021-02-01,Organic,Power User,Spanish,False,369.62
+403,USR00403,39,Non-Binary,Australia,Melbourne,2022-05-25,Social Media,New User,German,True,19.18
+404,USR00404,39,Female,Brazil,Brasília,2022-10-05,Social Media,At-Risk User,Hindi,True,67.23
+405,USR00405,59,Male,France,Paris,2022-07-13,Email Campaign,New User,French,False,320.07
+406,USR00406,23,Female,UK,London,2021-10-24,Paid Ad,Casual Viewer,Spanish,False,389.15
+407,USR00407,32,Female,USA,Los Angeles,2022-10-20,Referral,New User,English,True,484.02
+408,USR00408,60,Female,India,Mumbai,2021-11-06,Referral,Power User,Hindi,False,240.41
+409,USR00409,54,Male,Germany,Munich,2022-05-10,Social Media,Casual Viewer,English,True,559.04
+410,USR00410,50,Female,Canada,Montreal,2021-09-08,Email Campaign,Power User,Portuguese,False,689.5
+411,USR00411,25,Female,France,Paris,2022-02-20,Email Campaign,Power User,Portuguese,True,626.08
+412,USR00412,61,Female,France,Marseille,2021-11-01,Referral,New User,Hindi,True,41.3
+413,USR00413,61,Male,Germany,Hamburg,2022-04-10,Paid Ad,Casual Viewer,English,False,389.6
+414,USR00414,22,Female,UK,London,2021-03-16,Organic,Power User,English,True,92.89
+415,USR00415,56,Female,UK,London,2021-03-03,Referral,At-Risk User,Portuguese,True,201.22
+416,USR00416,21,Male,USA,New York,2021-06-11,Organic,New User,English,False,789.46
+417,USR00417,23,Female,UK,Birmingham,2022-03-27,Referral,New User,Portuguese,False,122.57
+418,USR00418,62,Female,Australia,Melbourne,2022-03-02,Paid Ad,Power User,Spanish,True,404.12
+419,USR00419,49,Female,France,Lyon,2022-05-11,Email Campaign,Casual Viewer,Hindi,True,498.34
+420,USR00420,47,Female,USA,Chicago,2022-04-21,Paid Ad,Casual Viewer,English,True,564.95
+421,USR00421,64,Female,Australia,Brisbane,2021-07-28,Referral,At-Risk User,German,True,452.12
+422,USR00422,52,Female,Germany,Hamburg,2021-12-15,Organic,Casual Viewer,German,True,17.72
+423,USR00423,57,Female,UK,London,2022-09-14,Organic,New User,English,True,267.9
+424,USR00424,33,Female,Germany,Munich,2021-05-28,Email Campaign,Casual Viewer,English,False,418.99
+425,USR00425,30,Female,Australia,Melbourne,2021-11-17,Email Campaign,New User,English,True,79.41
+426,USR00426,59,Male,UK,Manchester,2021-11-23,Referral,Casual Viewer,English,True,287.0
+427,USR00427,47,Male,Germany,Munich,2021-12-20,Referral,Power User,English,True,36.23
+428,USR00428,36,Female,USA,Los Angeles,2022-02-13,Paid Ad,Power User,English,False,72.08
+429,USR00429,34,Female,France,Lyon,2021-05-14,Email Campaign,Power User,German,True,323.57
+430,USR00430,36,Male,France,Marseille,2022-01-15,Social Media,Power User,Hindi,True,114.85
+431,USR00431,45,Male,USA,Chicago,2022-06-12,Referral,Power User,Spanish,True,458.36
+432,USR00432,43,Female,Australia,Sydney,2022-07-30,Organic,Power User,Spanish,True,554.68
+433,USR00433,54,Male,UK,Birmingham,2021-04-19,Paid Ad,Casual Viewer,English,True,642.46
+434,USR00434,43,Male,Brazil,Brasília,2021-11-23,Social Media,Casual Viewer,English,False,168.12
+435,USR00435,40,Female,India,Delhi,2021-09-05,Referral,Casual Viewer,English,False,142.31
+436,USR00436,26,Non-Binary,USA,New York,2022-04-23,Referral,Power User,Spanish,True,92.61
+437,USR00437,29,Female,UK,Manchester,2021-05-06,Referral,Casual Viewer,Hindi,True,512.78
+438,USR00438,18,Female,France,Paris,2021-10-01,Paid Ad,New User,Portuguese,False,568.12
+439,USR00439,18,Female,Australia,Brisbane,2022-04-06,Paid Ad,At-Risk User,German,True,34.95
+440,USR00440,64,Male,France,Marseille,2021-09-11,Organic,At-Risk User,Spanish,True,749.61
+441,USR00441,51,Female,Germany,Munich,2021-05-25,Paid Ad,Casual Viewer,English,True,51.06
+442,USR00442,49,Female,Brazil,Rio de Janeiro,2021-04-10,Organic,New User,English,True,437.62
+443,USR00443,42,Female,India,Delhi,2021-02-21,Paid Ad,Casual Viewer,Spanish,True,570.16
+444,USR00444,57,Female,Brazil,Brasília,2021-10-25,Social Media,Casual Viewer,English,False,698.07
+445,USR00445,62,Male,Brazil,Brasília,2022-01-29,Email Campaign,Casual Viewer,English,False,574.13
+446,USR00446,18,Male,India,Bangalore,2022-09-23,Organic,At-Risk User,English,False,643.37
+447,USR00447,33,Non-Binary,Germany,Berlin,2022-03-05,Email Campaign,At-Risk User,English,True,278.17
+448,USR00448,56,Male,India,Delhi,2021-09-12,Referral,At-Risk User,Spanish,True,653.71
+449,USR00449,22,Non-Binary,France,Paris,2021-06-13,Email Campaign,New User,English,False,73.29
+450,USR00450,39,Female,India,Bangalore,2021-12-02,Email Campaign,At-Risk User,English,False,716.91
+451,USR00451,46,Female,Brazil,Brasília,2022-08-15,Organic,Casual Viewer,English,True,442.6
+452,USR00452,20,Non-Binary,Germany,Berlin,2021-11-17,Organic,Casual Viewer,Spanish,False,655.67
+453,USR00453,29,Non-Binary,Australia,Melbourne,2021-07-14,Organic,Power User,French,False,367.33
+454,USR00454,43,Female,Canada,Vancouver,2021-06-13,Organic,Power User,English,True,518.43
+455,USR00455,33,Male,UK,Birmingham,2022-05-26,Paid Ad,At-Risk User,German,True,425.86
+456,USR00456,54,Female,Germany,Hamburg,2022-06-12,Email Campaign,Power User,English,True,587.96
+457,USR00457,39,Male,France,Marseille,2022-04-24,Social Media,New User,English,True,74.49
+458,USR00458,46,Female,India,Delhi,2022-05-26,Social Media,New User,French,True,57.68
+459,USR00459,31,Male,Germany,Berlin,2021-11-12,Social Media,Casual Viewer,German,False,205.21
+460,USR00460,45,Female,Canada,Montreal,2022-05-25,Paid Ad,New User,German,True,136.04
+461,USR00461,22,Female,USA,Chicago,2021-01-24,Paid Ad,New User,English,True,698.71
+462,USR00462,64,Female,Canada,Toronto,2021-04-03,Email Campaign,Power User,Hindi,True,183.18
+463,USR00463,47,Female,Canada,Vancouver,2022-02-07,Social Media,Casual Viewer,English,True,780.93
+464,USR00464,63,Female,Canada,Montreal,2022-06-02,Referral,Power User,English,False,276.15
+465,USR00465,22,Male,India,Delhi,2022-04-14,Email Campaign,Casual Viewer,English,True,153.87
+466,USR00466,29,Male,UK,Birmingham,2021-09-04,Referral,Casual Viewer,French,True,633.86
+467,USR00467,33,Male,UK,Manchester,2021-08-09,Email Campaign,Power User,English,False,530.38
+468,USR00468,43,Female,Germany,Berlin,2022-08-21,Referral,New User,German,True,403.57
+469,USR00469,43,Female,Germany,Hamburg,2021-12-28,Organic,Casual Viewer,English,True,448.74
+470,USR00470,38,Female,USA,Chicago,2021-02-19,Social Media,Power User,Portuguese,True,578.17
+471,USR00471,56,Male,Australia,Brisbane,2021-02-21,Paid Ad,Casual Viewer,English,True,190.48
+472,USR00472,53,Male,India,Bangalore,2021-10-16,Organic,Casual Viewer,Hindi,True,797.1
+473,USR00473,50,Female,Australia,Brisbane,2022-05-22,Organic,Casual Viewer,English,True,780.09
+474,USR00474,47,Female,UK,London,2022-09-04,Organic,Casual Viewer,English,True,523.76
+475,USR00475,54,Male,Australia,Brisbane,2022-11-01,Paid Ad,Power User,Spanish,False,167.64
+476,USR00476,40,Male,Brazil,Brasília,2022-11-20,Paid Ad,Casual Viewer,English,True,547.38
+477,USR00477,27,Male,India,Delhi,2022-04-27,Referral,Casual Viewer,English,True,67.04
+478,USR00478,22,Female,Germany,Hamburg,2021-10-20,Paid Ad,Power User,Hindi,True,34.22
+479,USR00479,53,Male,France,Lyon,2022-07-04,Email Campaign,Power User,French,True,213.57
+480,USR00480,51,Female,France,Paris,2021-01-09,Organic,Power User,Hindi,True,375.47
+481,USR00481,48,Male,Australia,Melbourne,2021-04-21,Paid Ad,New User,German,True,695.94
+482,USR00482,27,Female,USA,Los Angeles,2022-03-18,Organic,Power User,Hindi,False,584.46
+483,USR00483,36,Male,Canada,Toronto,2021-05-18,Social Media,Power User,Spanish,True,596.74
+484,USR00484,49,Male,France,Paris,2021-09-28,Email Campaign,Power User,English,True,346.14
+485,USR00485,18,Female,France,Lyon,2022-01-10,Email Campaign,New User,English,True,283.29
+486,USR00486,22,Female,Brazil,Rio de Janeiro,2022-02-17,Paid Ad,New User,Spanish,False,303.12
+487,USR00487,62,Female,Australia,Sydney,2022-01-10,Organic,Casual Viewer,English,True,790.24
+488,USR00488,21,Male,Germany,Berlin,2021-02-16,Organic,Casual Viewer,German,True,41.69
+489,USR00489,33,Female,India,Mumbai,2022-02-15,Email Campaign,Power User,German,True,694.95
+490,USR00490,41,Male,India,Mumbai,2021-02-22,Email Campaign,Casual Viewer,English,False,467.15
+491,USR00491,33,Male,UK,London,2022-08-07,Paid Ad,Power User,English,True,356.51
+492,USR00492,19,Male,UK,Manchester,2022-07-30,Organic,Power User,Hindi,False,582.95
+493,USR00493,45,Female,Australia,Sydney,2021-07-19,Email Campaign,New User,Hindi,True,394.47
+494,USR00494,49,Male,USA,Chicago,2022-01-07,Social Media,Power User,English,True,700.0
+495,USR00495,44,Female,Canada,Montreal,2022-07-21,Email Campaign,Power User,English,True,721.55
+496,USR00496,37,Male,Germany,Hamburg,2021-10-23,Paid Ad,New User,German,True,343.16
+497,USR00497,41,Male,Australia,Brisbane,2021-03-17,Referral,At-Risk User,French,True,228.69
+498,USR00498,29,Male,UK,London,2022-01-31,Referral,Casual Viewer,English,True,477.96
+499,USR00499,52,Female,Australia,Brisbane,2022-06-01,Social Media,Power User,Hindi,False,730.77
+500,USR00500,50,Female,UK,Manchester,2022-04-07,Organic,Power User,Spanish,True,176.42

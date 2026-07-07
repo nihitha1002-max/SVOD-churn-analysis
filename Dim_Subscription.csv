@@ -1,0 +1,4 @@
+subscription_key,plan_name,monthly_price,annual_price,billing_cycle,max_screens,hd_access,ultra_hd_access,ad_supported,offline_downloads,family_sharing
+1,Basic,7.99,79.99,Monthly,1,False,False,True,False,False
+2,Standard,13.99,139.99,Monthly,2,True,False,False,False,False
+3,Premium,19.99,199.99,Annual,4,True,True,False,True,True

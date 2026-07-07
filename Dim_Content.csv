@@ -1,0 +1,201 @@
+content_key,content_id,title,genre,sub_genre,release_year,language,content_type,imdb_rating,duration_minutes,age_rating,country_of_origin,is_original,total_seasons
+1,CNT00001,Title_1,Romance,Music,2012,English,Series,5.3,144,PG,Germany,False,5.0
+2,CNT00002,Title_2,Comedy,Biography,2017,English,Movie,6.1,150,R,France,True,
+3,CNT00003,Title_3,Romance,Mystery,2007,French,Movie,5.2,153,PG-13,USA,False,
+4,CNT00004,Title_4,Romance,War,2020,English,Movie,4.4,44,PG-13,France,False,
+5,CNT00005,Title_5,Comedy,War,2014,Spanish,Series,7.3,160,PG-13,South Korea,False,7.0
+6,CNT00006,Title_6,Romance,Sport,2000,English,Movie,7.7,136,PG,France,True,
+7,CNT00007,Title_7,Drama,Family,2002,English,Documentary,7.4,155,PG-13,Japan,True,
+8,CNT00008,Title_8,Horror,War,2007,Hindi,Series,6.5,168,PG,Japan,False,4.0
+9,CNT00009,Title_9,Action,War,2003,Spanish,Movie,6.1,44,PG,Japan,False,
+10,CNT00010,Title_10,Documentary,Biography,2015,Portuguese,Movie,8.7,98,R,France,True,
+11,CNT00011,Title_11,Drama,Crime,2022,English,Documentary,6.9,87,PG-13,Japan,False,
+12,CNT00012,Title_12,Drama,Mystery,2009,French,Series,6.6,31,PG-13,Japan,False,2.0
+13,CNT00013,Title_13,Action,Sport,2011,German,Series,4.1,51,PG,UK,True,3.0
+14,CNT00014,Title_14,Drama,Sport,2013,Hindi,Movie,5.9,147,G,UK,False,
+15,CNT00015,Title_15,Drama,Family,2013,French,Movie,6.1,115,PG-13,South Korea,True,
+16,CNT00016,Title_16,Comedy,Sport,2001,English,Movie,6.2,111,PG-13,USA,False,
+17,CNT00017,Title_17,Sci-Fi,Music,2022,Portuguese,Series,7.2,160,G,Germany,False,3.0
+18,CNT00018,Title_18,Drama,Sport,2004,Spanish,Documentary,6.9,50,R,France,True,
+19,CNT00019,Title_19,Documentary,War,2004,Spanish,Documentary,7.3,97,PG-13,France,False,
+20,CNT00020,Title_20,Comedy,Fantasy,2005,English,Series,8.2,39,PG,France,False,5.0
+21,CNT00021,Title_21,Action,Crime,2012,English,Series,8.5,165,PG-13,India,False,2.0
+22,CNT00022,Title_22,Sci-Fi,Fantasy,2008,Spanish,Movie,7.9,79,PG,South Korea,False,
+23,CNT00023,Title_23,Drama,Family,2021,Spanish,Series,9.3,153,PG-13,UK,False,8.0
+24,CNT00024,Title_24,Animation,Mystery,2014,Portuguese,Movie,4.1,179,R,Japan,True,
+25,CNT00025,Title_25,Comedy,Sport,2013,English,Series,5.1,112,R,South Korea,True,8.0
+26,CNT00026,Title_26,Action,War,2023,French,Series,4.0,62,R,France,True,5.0
+27,CNT00027,Title_27,Documentary,Fantasy,2006,German,Movie,7.6,149,PG-13,South Korea,False,
+28,CNT00028,Title_28,Animation,War,2019,English,Documentary,8.9,79,PG-13,USA,False,
+29,CNT00029,Title_29,Horror,Biography,2001,English,Series,5.3,170,PG-13,UK,False,8.0
+30,CNT00030,Title_30,Documentary,Sport,2006,Spanish,Series,9.1,50,G,South Korea,True,4.0
+31,CNT00031,Title_31,Drama,Family,2005,Spanish,Movie,4.3,24,PG-13,India,False,
+32,CNT00032,Title_32,Action,Crime,2016,English,Movie,9.1,29,PG,South Korea,False,
+33,CNT00033,Title_33,Sci-Fi,Mystery,2001,English,Series,5.9,108,R,UK,False,6.0
+34,CNT00034,Title_34,Documentary,Biography,2002,Hindi,Movie,4.6,149,R,France,False,
+35,CNT00035,Title_35,Action,Fantasy,2004,English,Documentary,6.7,145,PG-13,UK,True,
+36,CNT00036,Title_36,Comedy,Sport,2004,English,Series,5.4,30,PG-13,France,True,1.0
+37,CNT00037,Title_37,Comedy,Mystery,2000,Hindi,Series,5.6,178,R,South Korea,False,3.0
+38,CNT00038,Title_38,Animation,Sport,2007,German,Movie,5.7,75,R,India,False,
+39,CNT00039,Title_39,Comedy,Music,2011,German,Movie,8.4,102,R,France,False,
+40,CNT00040,Title_40,Sci-Fi,Family,2023,Portuguese,Movie,7.0,156,G,UK,False,
+41,CNT00041,Title_41,Action,Music,2003,Portuguese,Series,5.7,118,PG,South Korea,False,1.0
+42,CNT00042,Title_42,Drama,Music,2012,English,Series,7.4,168,PG-13,India,False,1.0
+43,CNT00043,Title_43,Action,Biography,2022,Spanish,Series,7.9,92,PG,Germany,False,3.0
+44,CNT00044,Title_44,Comedy,Adventure,2014,English,Movie,5.5,175,R,UK,False,
+45,CNT00045,Title_45,Horror,Crime,2010,English,Movie,6.3,134,PG,UK,False,
+46,CNT00046,Title_46,Comedy,Sport,2009,English,Series,4.7,26,R,USA,False,2.0
+47,CNT00047,Title_47,Documentary,Crime,2002,French,Series,5.0,99,PG-13,South Korea,False,5.0
+48,CNT00048,Title_48,Action,Sport,2021,English,Series,7.7,163,PG,UK,False,5.0
+49,CNT00049,Title_49,Documentary,Crime,2013,English,Movie,5.0,116,R,USA,False,
+50,CNT00050,Title_50,Action,Family,2015,English,Series,6.9,23,R,UK,True,3.0
+51,CNT00051,Title_51,Horror,Family,2009,French,Series,7.9,23,PG-13,UK,False,8.0
+52,CNT00052,Title_52,Romance,Music,2009,English,Movie,4.6,122,PG,France,False,
+53,CNT00053,Title_53,Drama,Sport,2011,Spanish,Movie,7.1,59,G,India,False,
+54,CNT00054,Title_54,Thriller,Family,2008,German,Movie,5.4,36,R,UK,False,
+55,CNT00055,Title_55,Thriller,Sport,2000,English,Documentary,9.3,120,R,Japan,False,
+56,CNT00056,Title_56,Romance,Adventure,2004,English,Series,6.7,122,PG-13,UK,False,1.0
+57,CNT00057,Title_57,Horror,Music,2019,Spanish,Documentary,8.4,143,PG-13,Germany,False,
+58,CNT00058,Title_58,Action,Adventure,2007,English,Movie,7.0,71,PG,UK,True,
+59,CNT00059,Title_59,Horror,Music,2010,Spanish,Series,4.2,71,R,France,False,4.0
+60,CNT00060,Title_60,Drama,Sport,2011,Spanish,Documentary,7.5,143,PG,Japan,False,
+61,CNT00061,Title_61,Thriller,Music,2000,English,Movie,9.2,82,R,Germany,False,
+62,CNT00062,Title_62,Animation,Sport,2021,English,Movie,7.3,135,PG-13,France,True,
+63,CNT00063,Title_63,Comedy,Fantasy,2019,English,Series,8.5,81,PG-13,Germany,True,2.0
+64,CNT00064,Title_64,Thriller,Family,2010,English,Documentary,8.9,26,PG,Germany,False,
+65,CNT00065,Title_65,Horror,Music,2004,English,Series,5.3,174,R,India,True,3.0
+66,CNT00066,Title_66,Horror,Music,2014,English,Series,5.2,111,R,France,True,1.0
+67,CNT00067,Title_67,Romance,Family,2004,French,Series,7.4,33,PG-13,France,True,8.0
+68,CNT00068,Title_68,Horror,Fantasy,2011,English,Series,6.3,105,R,India,True,4.0
+69,CNT00069,Title_69,Drama,War,2004,Hindi,Series,8.6,152,PG-13,South Korea,True,6.0
+70,CNT00070,Title_70,Documentary,Mystery,2016,English,Series,9.0,149,PG-13,USA,False,7.0
+71,CNT00071,Title_71,Action,War,2016,French,Series,5.9,81,PG-13,Germany,False,5.0
+72,CNT00072,Title_72,Animation,War,2023,German,Documentary,5.3,168,PG,France,False,
+73,CNT00073,Title_73,Drama,Family,2011,English,Movie,8.3,98,PG-13,South Korea,False,
+74,CNT00074,Title_74,Thriller,Biography,2023,English,Series,5.5,168,PG-13,France,False,8.0
+75,CNT00075,Title_75,Romance,Adventure,2014,English,Movie,8.5,157,R,India,True,
+76,CNT00076,Title_76,Horror,Family,2014,Spanish,Movie,6.3,77,R,India,True,
+77,CNT00077,Title_77,Documentary,Fantasy,2005,English,Series,7.7,139,R,France,False,6.0
+78,CNT00078,Title_78,Drama,Music,2011,Spanish,Series,4.5,152,R,Japan,True,8.0
+79,CNT00079,Title_79,Thriller,Music,2019,Hindi,Movie,7.4,84,R,UK,False,
+80,CNT00080,Title_80,Thriller,Music,2017,German,Series,6.5,32,PG-13,USA,False,1.0
+81,CNT00081,Title_81,Action,War,2013,English,Movie,7.2,101,R,USA,False,
+82,CNT00082,Title_82,Documentary,Sport,2001,Spanish,Series,4.9,179,PG,Japan,True,6.0
+83,CNT00083,Title_83,Horror,Fantasy,2008,English,Series,8.1,158,PG,Japan,False,2.0
+84,CNT00084,Title_84,Animation,Sport,2004,German,Documentary,8.7,168,PG-13,UK,False,
+85,CNT00085,Title_85,Drama,Biography,2019,English,Series,5.2,71,PG-13,South Korea,True,3.0
+86,CNT00086,Title_86,Animation,Fantasy,2000,English,Series,4.5,136,PG-13,South Korea,False,1.0
+87,CNT00087,Title_87,Drama,Sport,2022,English,Series,4.1,45,R,UK,False,5.0
+88,CNT00088,Title_88,Thriller,War,2002,Spanish,Series,7.5,53,R,Germany,False,7.0
+89,CNT00089,Title_89,Action,Family,2005,English,Documentary,7.3,71,PG,India,True,
+90,CNT00090,Title_90,Comedy,Crime,2004,Spanish,Movie,7.0,131,NR,South Korea,False,
+91,CNT00091,Title_91,Comedy,Sport,2020,English,Movie,5.3,101,G,France,False,
+92,CNT00092,Title_92,Documentary,Crime,2004,Spanish,Movie,6.1,176,G,Germany,False,
+93,CNT00093,Title_93,Documentary,Crime,2000,German,Movie,7.3,61,PG,Japan,True,
+94,CNT00094,Title_94,Documentary,Biography,2016,Spanish,Series,6.7,40,NR,India,False,2.0
+95,CNT00095,Title_95,Romance,Mystery,2018,Spanish,Series,9.4,61,PG-13,India,True,8.0
+96,CNT00096,Title_96,Romance,Mystery,2013,Portuguese,Movie,4.8,160,G,South Korea,False,
+97,CNT00097,Title_97,Animation,Fantasy,2011,English,Series,7.8,132,PG,UK,True,3.0
+98,CNT00098,Title_98,Documentary,Crime,2009,Hindi,Movie,6.2,124,G,UK,False,
+99,CNT00099,Title_99,Thriller,Fantasy,2019,English,Movie,6.4,36,G,Germany,False,
+100,CNT00100,Title_100,Sci-Fi,Family,2020,English,Movie,7.9,139,PG-13,India,False,
+101,CNT00101,Title_101,Documentary,Family,2017,Hindi,Series,7.8,156,NR,South Korea,True,4.0
+102,CNT00102,Title_102,Action,Sport,2023,French,Movie,9.5,148,PG-13,South Korea,True,
+103,CNT00103,Title_103,Romance,Crime,2010,English,Series,4.7,149,PG-13,Germany,False,5.0
+104,CNT00104,Title_104,Comedy,Crime,2001,English,Movie,4.6,79,R,USA,False,
+105,CNT00105,Title_105,Thriller,Family,2017,Spanish,Movie,8.0,67,PG-13,UK,True,
+106,CNT00106,Title_106,Documentary,Adventure,2006,English,Movie,7.2,48,NR,UK,False,
+107,CNT00107,Title_107,Thriller,War,2023,Spanish,Documentary,5.5,116,R,India,False,
+108,CNT00108,Title_108,Horror,Fantasy,2014,French,Series,4.4,29,PG-13,India,False,7.0
+109,CNT00109,Title_109,Romance,Fantasy,2010,Hindi,Documentary,4.5,77,PG-13,UK,False,
+110,CNT00110,Title_110,Animation,Biography,2017,Hindi,Series,8.9,40,PG,South Korea,False,1.0
+111,CNT00111,Title_111,Action,Fantasy,2022,Spanish,Documentary,5.1,47,R,UK,True,
+112,CNT00112,Title_112,Romance,Mystery,2011,English,Movie,5.8,53,R,France,False,
+113,CNT00113,Title_113,Drama,Music,2005,Spanish,Documentary,5.2,27,PG,Japan,False,
+114,CNT00114,Title_114,Horror,Family,2019,English,Series,6.0,98,G,India,True,2.0
+115,CNT00115,Title_115,Horror,Crime,2022,English,Documentary,4.4,164,PG-13,South Korea,False,
+116,CNT00116,Title_116,Horror,Crime,2012,Portuguese,Movie,6.9,106,PG-13,Japan,False,
+117,CNT00117,Title_117,Action,Adventure,2019,French,Movie,4.4,107,PG,India,False,
+118,CNT00118,Title_118,Sci-Fi,Biography,2015,Portuguese,Movie,8.4,88,PG,UK,False,
+119,CNT00119,Title_119,Comedy,Mystery,2017,French,Documentary,5.3,179,G,USA,False,
+120,CNT00120,Title_120,Animation,Biography,2009,English,Movie,7.0,106,PG,Germany,False,
+121,CNT00121,Title_121,Action,Adventure,2022,English,Movie,8.8,120,G,South Korea,True,
+122,CNT00122,Title_122,Comedy,Crime,2007,English,Series,7.6,27,PG,Japan,False,4.0
+123,CNT00123,Title_123,Romance,Crime,2017,English,Series,6.9,96,NR,South Korea,True,7.0
+124,CNT00124,Title_124,Thriller,Family,2020,English,Documentary,5.8,106,R,USA,False,
+125,CNT00125,Title_125,Comedy,Mystery,2000,English,Series,5.8,62,PG-13,UK,False,8.0
+126,CNT00126,Title_126,Sci-Fi,Crime,2022,English,Movie,7.7,148,PG-13,USA,False,
+127,CNT00127,Title_127,Horror,Sport,2007,English,Series,9.5,128,PG-13,USA,False,4.0
+128,CNT00128,Title_128,Sci-Fi,Biography,2005,German,Series,7.6,171,PG-13,Japan,False,1.0
+129,CNT00129,Title_129,Horror,War,2004,English,Series,7.1,171,R,France,False,4.0
+130,CNT00130,Title_130,Sci-Fi,Music,2014,English,Series,8.0,36,G,USA,False,8.0
+131,CNT00131,Title_131,Drama,War,2021,English,Movie,6.6,152,G,India,True,
+132,CNT00132,Title_132,Sci-Fi,Adventure,2014,English,Series,4.3,167,PG,Germany,False,2.0
+133,CNT00133,Title_133,Romance,Sport,2001,Portuguese,Movie,7.1,40,R,USA,False,
+134,CNT00134,Title_134,Action,Biography,2000,English,Movie,9.3,77,NR,UK,False,
+135,CNT00135,Title_135,Thriller,War,2022,French,Series,5.0,178,PG-13,UK,True,4.0
+136,CNT00136,Title_136,Romance,Fantasy,2022,Spanish,Movie,7.8,129,NR,South Korea,True,
+137,CNT00137,Title_137,Action,Fantasy,2010,Hindi,Series,5.1,158,PG,Japan,True,8.0
+138,CNT00138,Title_138,Action,War,2009,Hindi,Series,6.9,162,PG-13,India,True,7.0
+139,CNT00139,Title_139,Romance,Sport,2017,English,Series,4.5,154,PG,UK,False,5.0
+140,CNT00140,Title_140,Romance,Family,2017,Spanish,Movie,6.5,47,NR,UK,False,
+141,CNT00141,Title_141,Comedy,War,2016,English,Series,8.2,70,PG-13,South Korea,False,6.0
+142,CNT00142,Title_142,Sci-Fi,War,2007,French,Series,5.9,24,PG,USA,True,3.0
+143,CNT00143,Title_143,Drama,Mystery,2014,English,Series,7.7,24,PG-13,Germany,True,1.0
+144,CNT00144,Title_144,Documentary,Biography,2007,French,Documentary,8.4,113,PG,USA,True,
+145,CNT00145,Title_145,Animation,Family,2016,Hindi,Movie,9.1,115,G,South Korea,True,
+146,CNT00146,Title_146,Thriller,War,2011,Spanish,Movie,5.3,27,PG,Japan,True,
+147,CNT00147,Title_147,Action,Music,2007,English,Movie,6.2,83,NR,India,True,
+148,CNT00148,Title_148,Comedy,Mystery,2013,German,Movie,4.8,157,R,France,False,
+149,CNT00149,Title_149,Sci-Fi,Music,2003,Spanish,Movie,9.5,57,NR,Japan,False,
+150,CNT00150,Title_150,Romance,Biography,2000,English,Movie,9.1,130,R,France,False,
+151,CNT00151,Title_151,Romance,Adventure,2000,German,Series,7.0,131,R,UK,False,2.0
+152,CNT00152,Title_152,Sci-Fi,War,2018,English,Movie,8.6,100,PG-13,France,False,
+153,CNT00153,Title_153,Romance,Crime,2015,English,Series,6.9,155,R,Japan,True,5.0
+154,CNT00154,Title_154,Documentary,Biography,2013,Spanish,Series,7.4,123,NR,South Korea,True,8.0
+155,CNT00155,Title_155,Drama,War,2020,Spanish,Movie,4.5,172,PG-13,UK,False,
+156,CNT00156,Title_156,Documentary,Crime,2015,English,Series,8.2,92,R,South Korea,True,5.0
+157,CNT00157,Title_157,Drama,War,2004,English,Movie,4.7,68,R,South Korea,False,
+158,CNT00158,Title_158,Thriller,Biography,2008,English,Movie,8.5,55,NR,South Korea,False,
+159,CNT00159,Title_159,Horror,Adventure,2001,Spanish,Movie,8.3,145,PG-13,France,False,
+160,CNT00160,Title_160,Animation,Adventure,2017,English,Series,7.9,87,PG-13,France,False,4.0
+161,CNT00161,Title_161,Comedy,Sport,2005,English,Movie,4.2,97,PG-13,South Korea,False,
+162,CNT00162,Title_162,Sci-Fi,Sport,2008,English,Series,5.7,124,G,India,True,6.0
+163,CNT00163,Title_163,Documentary,Music,2000,French,Movie,5.4,141,PG,India,True,
+164,CNT00164,Title_164,Action,Mystery,2008,English,Movie,6.0,138,G,France,False,
+165,CNT00165,Title_165,Drama,Adventure,2015,English,Series,4.5,133,PG-13,Germany,False,1.0
+166,CNT00166,Title_166,Drama,Biography,2012,Hindi,Series,9.2,29,NR,France,True,4.0
+167,CNT00167,Title_167,Documentary,Sport,2008,French,Movie,7.0,168,R,India,False,
+168,CNT00168,Title_168,Documentary,War,2020,English,Documentary,5.7,159,PG,UK,False,
+169,CNT00169,Title_169,Action,Sport,2012,English,Documentary,6.2,110,PG-13,India,False,
+170,CNT00170,Title_170,Romance,Fantasy,2008,English,Movie,6.5,21,NR,USA,False,
+171,CNT00171,Title_171,Drama,War,2010,English,Documentary,7.3,137,PG-13,Germany,False,
+172,CNT00172,Title_172,Animation,Sport,2003,Hindi,Movie,6.8,32,G,Germany,False,
+173,CNT00173,Title_173,Thriller,Crime,2001,English,Movie,9.1,179,R,India,False,
+174,CNT00174,Title_174,Sci-Fi,Biography,2005,English,Documentary,6.7,114,PG,France,True,
+175,CNT00175,Title_175,Horror,Family,2013,Spanish,Documentary,9.5,163,G,USA,False,
+176,CNT00176,Title_176,Documentary,Adventure,2003,English,Series,8.7,51,R,Japan,True,2.0
+177,CNT00177,Title_177,Action,Adventure,2005,Spanish,Movie,5.1,51,R,Japan,False,
+178,CNT00178,Title_178,Thriller,Music,2018,English,Series,9.1,143,G,France,False,4.0
+179,CNT00179,Title_179,Animation,Fantasy,2005,Spanish,Movie,4.6,30,NR,USA,False,
+180,CNT00180,Title_180,Horror,Fantasy,2001,English,Series,8.5,29,PG-13,France,False,7.0
+181,CNT00181,Title_181,Romance,Family,2017,English,Series,6.1,34,PG-13,India,True,6.0
+182,CNT00182,Title_182,Documentary,Family,2012,English,Movie,8.8,36,R,UK,True,
+183,CNT00183,Title_183,Sci-Fi,Mystery,2008,Portuguese,Movie,8.8,165,PG,USA,False,
+184,CNT00184,Title_184,Romance,Fantasy,2022,Spanish,Series,8.4,172,NR,India,False,1.0
+185,CNT00185,Title_185,Animation,Mystery,2018,Spanish,Movie,8.3,78,R,India,True,
+186,CNT00186,Title_186,Drama,Adventure,2012,English,Documentary,5.7,97,NR,France,False,
+187,CNT00187,Title_187,Sci-Fi,Sport,2010,French,Movie,4.4,143,PG-13,India,False,
+188,CNT00188,Title_188,Sci-Fi,Biography,2000,French,Series,6.2,133,PG,UK,False,3.0
+189,CNT00189,Title_189,Action,Fantasy,2023,English,Movie,5.0,41,R,Germany,True,
+190,CNT00190,Title_190,Animation,Fantasy,2021,English,Documentary,7.8,177,R,India,False,
+191,CNT00191,Title_191,Horror,Sport,2006,English,Series,5.9,51,PG,India,False,5.0
+192,CNT00192,Title_192,Sci-Fi,Fantasy,2020,Portuguese,Series,9.4,132,PG,UK,False,2.0
+193,CNT00193,Title_193,Sci-Fi,Sport,2014,German,Movie,7.5,139,PG,India,False,
+194,CNT00194,Title_194,Animation,Adventure,2000,English,Series,8.5,168,PG-13,UK,False,7.0
+195,CNT00195,Title_195,Drama,War,2011,Hindi,Series,4.7,141,PG,Germany,True,4.0
+196,CNT00196,Title_196,Romance,Adventure,2006,Spanish,Movie,8.7,51,PG,Japan,False,
+197,CNT00197,Title_197,Documentary,Music,2014,Hindi,Series,9.1,138,NR,Germany,False,1.0
+198,CNT00198,Title_198,Drama,Family,2020,Hindi,Series,6.7,58,R,South Korea,True,1.0
+199,CNT00199,Title_199,Thriller,Adventure,2018,English,Movie,7.3,31,R,UK,False,
+200,CNT00200,Title_200,Romance,Sport,2000,French,Series,8.2,37,PG-13,Germany,True,8.0
